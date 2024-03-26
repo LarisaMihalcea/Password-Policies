@@ -1,5 +1,4 @@
 # Password-Policies
-Using OOP principles in C++, I developed a password policy library for a web application, ensuring passwords adhere to specified security criteria including length, character classes, mandatory or prohibited characters, repetitions, and consecutive characters.
 
 In the new web application you have developed, it is necessary to introduce additional security elements. For this, you will develop a library of Password Policies. These password policies are configured by each client using your library, and then each password set by users is checked against these rules. They are:
 
